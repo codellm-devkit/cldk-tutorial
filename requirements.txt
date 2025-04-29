@@ -1,0 +1,2 @@
+cldk==1.0.0
+OpenAI
