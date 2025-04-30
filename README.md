@@ -51,6 +51,8 @@ OPENROUTER_API=sk-rest-of-your_api_key-here
 Finally, let's install the required dependencies. You can do this by running the following command in your terminal:
 
    ```bash
+   python -m venv .venv
+   source .venv/bin/activate
    pip install -U -r requirements.txt
    ```
 
@@ -68,4 +70,9 @@ You have two options to start the Jupyter Notebook server:
    code .
    ```
    This will open the current directory in VSCode. You can then open the Jupyter Notebook files and run them directly from there. 
+   
+   
+   Make sure to select the correct Python interpreter (the one inside the `.venv` directory) in VSCode. You can do this
+   by selecting the Python kernel in the top right corner of the notebook.
+   ![Image](./assets/vscode-1.png)
    
