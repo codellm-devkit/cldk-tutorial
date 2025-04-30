@@ -75,4 +75,25 @@ You have two options to start the Jupyter Notebook server:
    Make sure to select the correct Python interpreter (the one inside the `.venv` directory) in VSCode. You can do this
    by selecting the Python kernel in the top right corner of the notebook.
    ![Image](./assets/vscode-1.png)
-   
+
+### 🏁 End of the tutorial!
+
+Make sure you deactivate the virtual environment when you are done with the tutorial. You can do this by running the following command in your terminal:
+
+```bash
+deactivate
+```
+This will deactivate the virtual environment and return you to your system's default Python environment.
+
+## Feedback
+
+Join our community on Discord/Github to discuss CLDK and share your experiences with other users:
+- [Github Discussion](https://github.com/orgs/codellm-devkit/discussions)
+
+For any questions, feedback, or suggestions, please contact the authors:
+
+| Name          | Email                                               |
+| ------------- | --------------------------------------------------- |
+| Rahul Krishna | [i.m.ralk@gmail.com](mailto:i.m.ralk@gmail.com)     |
+| Rangeet Pan   | [rangeet.pan@ibm.com](mailto:rangeet.pan@gmail.com) |
+| Saurabh Sihna | [sinhas@us.ibm.com](mailto:sinhas@us.ibm.com)       |
