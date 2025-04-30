@@ -36,7 +36,7 @@ Log in to your openrouter account and create a new [API key](https://openrouter.
 ![Image](./assets/openrouter-2.png)
    **Fig 2. Generate a name and click "Create"**
 
-![Image](./openrouter-3.png)
+![Image](./assets/openrouter-3.png)
    **Fig 3. Copy the API key**
 
 Copy the API key and paste it into the `.env` file as follows:
