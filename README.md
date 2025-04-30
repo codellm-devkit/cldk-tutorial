@@ -30,14 +30,13 @@ In this hands on session we will explore the CLDK and its capabilities with a fe
 
 Log in to your openrouter account and create a new [API key](https://openrouter.ai/settings/keys). 
 
-![Image](https://github-production-user-asset-6210df.s3.amazonaws.com/1433964/439037039-9a72147c-0306-4a6e-81c1-2bd20012edd8.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250430%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250430T014851Z&X-Amz-Expires=300&X-Amz-Signature=5b4d214f31b63f4c9dcac4b9bbc74db83bf035afefd3082eb1935eedf2b71aa1&X-Amz-SignedHeaders=host)
+![Image](./assets/openrouter-1.png)
    **Fig 1. Click "Create Key"**
 
-![Image](https://github-production-user-asset-6210df.s3.amazonaws.com/1433964/439037040-93055b55-b619-4686-91c7-11d579934ae7.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250430%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250430T014833Z&X-Amz-Expires=300&X-Amz-Signature=effa8976f088cbd495f8fb4aa51777caad04a050095a7097aa1387b9af2a89b9&X-Amz-SignedHeaders=host)
-   **Fig 2.Generate a name and click "Create"**
+![Image](./assets/openrouter-2.png)
+   **Fig 2. Generate a name and click "Create"**
 
-
-![Image](https://github-production-user-asset-6210df.s3.amazonaws.com/1433964/439037041-f2b9ee06-e54d-4ceb-84ed-140b18daa6d9.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250430%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250430T014905Z&X-Amz-Expires=300&X-Amz-Signature=566299dc78cc646fb3d8b83716e2308168e2e9dd645a58308ffc4ccccfa3b330&X-Amz-SignedHeaders=host)
+![Image](./openrouter-3.png)
    **Fig 3. Copy the API key**
 
 Copy the API key and paste it into the `.env` file as follows:
