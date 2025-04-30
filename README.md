@@ -53,3 +53,19 @@ Finally, let's install the required dependencies. You can do this by running the
    ```bash
    pip install -U -r requirements.txt
    ```
+
+### Start the Jupyter Notebook server
+
+You have two options to start the Jupyter Notebook server:
+1. **Using the command line**: Run the following command in your terminal:
+   ```bash
+   ./.venv/bin/jupyter notebook
+   ```
+   This will start the Jupyter Notebook server and open it in your default web browser.
+
+2. Recommended: **Using VSCode**: From inside the `cldk-tutorial` directory you can open VSCode:
+   ```bash
+   code .
+   ```
+   This will open the current directory in VSCode. You can then open the Jupyter Notebook files and run them directly from there. 
+   
