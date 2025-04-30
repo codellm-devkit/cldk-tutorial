@@ -2,9 +2,8 @@
 
 In this hands on session we will explore the CLDK and its capabilities with a few real-world examples of using the CLDK and LLMs to build:
 
-1. a code summarization tool: See [Code Summarization](./tutorial.ipynb)
-2. a test generation tool: See [Test Generation](./test_generation.ipynb)
-3. and a code translation tool: See [Code Translation](./code_translation.ipynb).
+1. a code summarization tool: See [Code Summarization](./1-codesummary.ipynb)
+2. a test generation tool: See [Test Generation](./2-testgeneration.ipynb)
 
 ## 1.  Prerequisites
 
