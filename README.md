@@ -51,5 +51,5 @@ OPENROUTER_API=sk-rest-of-your_api_key-here
 Finally, let's install the required dependencies. You can do this by running the following command in your terminal:
 
    ```bash
-   pip install -r requirements.txt
+   pip install -U -r requirements.txt
    ```
