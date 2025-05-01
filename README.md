@@ -4,6 +4,7 @@ In this hands on session we will explore the CLDK and its capabilities with a fe
 
 1. a code summarization tool: See [Code Summarization](./1-codesummary.ipynb)
 2. a test generation tool: See [Test Generation](./2-testgeneration.ipynb)
+3. a code translation tool: See [Code Translation](./3-codetranslation.ipynb)
 
 ## 1.  Prerequisites
 
@@ -72,9 +73,13 @@ You have two options to start the Jupyter Notebook server:
    This will open the current directory in VSCode. You can then open the Jupyter Notebook files and run them directly from there. 
    
    
-   Make sure to select the correct Python interpreter (the one inside the `.venv` directory) in VSCode. You can do this
-   by selecting the Python kernel in the top right corner of the notebook.
-   ![Image](./assets/vscode-1.png)
+   Make sure to select the correct Python interpreter (the one inside the `.venv` directory) in VSCode. 
+   
+   1. You can do this by selecting the Python kernel in the top right corner of the notebook.
+      ![Image](./assets/vscode-1.png)
+   
+   2. Choose the Python interpreter from the `.venv` directory.
+      ![Image](./assets/vscode-2.png)
 
 ### 🏁 End of the tutorial!
 
