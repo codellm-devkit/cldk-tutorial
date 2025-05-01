@@ -51,7 +51,7 @@ OPENROUTER_API=sk-rest-of-your_api_key-here
 Finally, let's install the required dependencies. You can do this by running the following command in your terminal:
 
    ```bash
-   python -m venv .venv
+   python3 -m venv .venv
    source .venv/bin/activate
    pip install -U -r requirements.txt
    ```
